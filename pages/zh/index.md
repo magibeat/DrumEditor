@@ -17,6 +17,6 @@ language: zh
 
 ## **使用过程中发现了问题？**
 您发现了什么错误？或者有任何想说的内容。  
-请将它们通过邮件发往 **support@magibeat.com**，
-或者点击加入[DrumLegend Discord服务器](https://discord.com/invite/uHgPx7QaPx)参与讨论。
-感谢您对幻鼓传奇的支持，我们会根据大家的反馈，持续维护该编辑器。
+请将它们通过邮件发往 **support@magibeat.com**，  
+或者点击加入[DrumLegend Discord服务器](https://discord.com/invite/uHgPx7QaPx)参与讨论。  
+感谢您对幻鼓传奇的支持，我们会根据大家的反馈，持续维护该编辑器。  
