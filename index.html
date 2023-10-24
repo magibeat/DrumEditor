@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<script type="text/javascript">
+
+    var type=navigator.appName;
+    if (type=="Netscape") var lang = navigator.language;
+    else var lang = navigator.userLanguage;
+
+    //cut down to first 2 chars of country code  
+    var lang = lang.substr(0,2);
+    
+    if (lang == "zh") window.location.replace('pages/zh');
+    //除上面所列的语言  
+    else window.location.replace('pages/en');
+</script>
+
+<body>
+
+</body>
+</html>
