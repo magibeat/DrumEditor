@@ -1,8 +1,8 @@
 ---
-layout: en_default
-title:  Drum Editor
+layout: zh_default
+title:  幻鼓传奇编辑器
 tagline: 
-language: en
+language: zh
 ---
 
 # 教程
