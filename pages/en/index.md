@@ -6,7 +6,7 @@ language: en
 ---
 
 Welcome to the Drum Editor  
-Version number: V0.6.0  
+Version number: V0.60  
 Last Updated: Oct 20, 2023  
 
 > You can design beatmaps for your favorite songs and generate lighting effects with one-click. You can also export your beatmap files and share them with your friends!
