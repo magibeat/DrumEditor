@@ -19,5 +19,5 @@ Drum Editor is the official beatmap editor for the VR music game [Drum Legend](h
 ## **Did you find any problems during use?**
 What did you find wrong? or have anything to say.  
 Please email them to **support@magibeat.com**,  
-Or click to join [DrumLegend Discord server](https://discord.com/invite/uHgPx7QaPx) to participate in the discussion.  
+Or click to join [DrumLegend Discord server](https://discord.com/channels/1082550247571599401/1082550249089925141) to participate in the discussion.  
 Thank you for supporting Drum Legend, and we will continue optimizing the editor based on your feedback.  
