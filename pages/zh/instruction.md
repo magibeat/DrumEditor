@@ -11,5 +11,4 @@ language: zh
 若您遇到任何问题，欢迎加入我们的qq群852791903  
 我们期待您的反馈和交流！  
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/GTLkts-7mjk?si=1D9IZc1k2mnByqNR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe src="//player.bilibili.com/player.html?aid=921848986&bvid=BV1yu4y1g7ZN&cid=1355278177&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
